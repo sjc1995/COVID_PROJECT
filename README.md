@@ -25,7 +25,8 @@ Cumulative confirmed case: COVID tracking project (https://covidtracking.com)
 
 ## Preliminary Analysis
 Including the code and dataset we used in preliminary analysis, as well as some plot results of preliminary analysis.
-
+- preliminary part.Rmd (preliminary-part.pdf)
+  - code of boxplots, regressions, time series plots and correlation analysis
 
 ## Rolling_R0
 Including the code and dataset we used in Rolling R0 analysis.
