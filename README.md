@@ -27,6 +27,15 @@ Cumulative confirmed case: COVID tracking project (https://covidtracking.com)
 Including the code and dataset we used in preliminary analysis, as well as some plot results of preliminary analysis.
 - preliminary part.Rmd (preliminary-part.pdf)
   - code of boxplots, regressions, time series plots and correlation analysis
+- mask_timeseries (dataset)
+  - Source: Facebook Survey
+  - from covidcast cip, mask wearing data from Sep 09 to Nov 05
+ - confirmed_time_prop (dataset)
+  - Source: Indicator-combination
+  - from covidcast cip, daily confirmed proportion data from Apr 06 to Nov 05
+ - sevendaysaverage (dataset)
+  - Source: Indicator-combination
+  - from covidcast cip, confirmed 7 days proportion data from Jul 02 to Oct 31
 
 ## Rolling_R0
 Including the code and dataset we used in Rolling R0 analysis.
